@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaman007" alt="aaman007" /> </p>
 
-- 🌱 I’m currently learning **Django and React**
+- 🌱 I’m currently learning **Django, Golang and React**
 
 - 📫 How to reach me **aaman.sunny007@gmail.com**
 
