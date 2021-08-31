@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Django, Django Rest Framework, Golang and React**
 
-- 🌱 I’m currently exploring **Clean Architecture, Design Patterns, Docker, Kubernetes, System Design, Microservices**
-
 - 📫 How to reach me **aaman.sunny007@gmail.com**
 
 
