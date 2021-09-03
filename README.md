@@ -6,7 +6,7 @@
 - 📫 How to reach me **aaman.sunny007@gmail.com**
 
 
-<h2> Social Links </h2>
+<h2> Profile Links </h2>
 
 <a href="https://facebook.com/aaman007.r" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" > </a>
 <a href="https://instagram.com/aaman_007" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
