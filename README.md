@@ -120,21 +120,36 @@
 
 <h2> Projects/Repos </h2>
 
-<h4> Competitive Programming </h4>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=competitive-programming&theme=great-gatsby)](https://github.com/aaman007/competitive-programming)
 
-<h4> Django </h4> 
+<h4> Competitive Programming </h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=competitive-programming&theme=great-gatsby)](https://github.com/aaman007/competitive-programming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=codeforces&theme=great-gatsby)](https://github.com/aaman007/codeforces)
+
+<h4> Python/Django </h4> 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=muoj&theme=great-gatsby)](https://github.com/aaman007/muoj)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=ChatBot&theme=great-gatsby)](https://github.com/aaman007/ChatBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=Post-IT-DjangoApp&theme=great-gatsby)](https://github.com/aaman007/Post-IT-DjangoApp)
 
 <h4> Golang </h4>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=gallerio&theme=great-gatsby)](https://github.com/aaman007/gallerio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=PubSubGo&theme=great-gatsby)](https://github.com/aaman007/https://github.com/aaman007/PubSubGo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=Golang-Web-Dev&theme=great-gatsby)](https://github.com/aaman007/Golang-Web-Dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=Go-Dumps&theme=great-gatsby)](https://github.com/aaman007/Go-Dumps)
 
 <h4> Laravel </h4>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=watchlist.com&theme=great-gatsby)](https://github.com/aaman007/watchlist.com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=BloggersHouse&theme=great-gatsby)](https://github.com/aaman007/BloggersHouse)
 
 <h4> Android </h4>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=foodville-online-food-ordering&theme=great-gatsby)](https://github.com/aaman007/foodville-online-food-ordering)
 
 <h4> React/React Native </h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=cryptoww&theme=great-gatsby)](https://github.com/aaman007/cryptoww)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=meals-app&theme=great-gatsby)](https://github.com/aaman007/meals-app)
 
