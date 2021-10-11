@@ -118,12 +118,23 @@
 
 
 
-<h2> Projects </h2>
+<h2> Projects/Repos </h2>
 
+<h4> Competitive Programming </h4>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=competitive-programming&theme=great-gatsby)](https://github.com/aaman007/competitive-programming)
+
+<h4> Django </h4> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=muoj&theme=great-gatsby)](https://github.com/aaman007/muoj)
+
+<h4> Golang </h4>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=gallerio&theme=great-gatsby)](https://github.com/aaman007/gallerio)
+
+<h4> Laravel </h4>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=watchlist.com&theme=great-gatsby)](https://github.com/aaman007/watchlist.com)
+
+<h4> Android </h4>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=foodville-online-food-ordering&theme=great-gatsby)](https://github.com/aaman007/foodville-online-food-ordering)
+
+<h4> React/React Native </h4>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=meals-app&theme=great-gatsby)](https://github.com/aaman007/meals-app)
 
