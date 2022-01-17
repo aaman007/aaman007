@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaman007" alt="aaman007" /> </p>
 
-- 🌱 I’m currently learning **Django, Django Rest Framework, Golang and React**
+- 🌱 I’m currently learning **Flask, Express and MongoDB**
 
 - 📫 How to reach me **aaman.sunny007@gmail.com**
 
@@ -13,7 +13,7 @@
 <a href="https://t.me/decayed007"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 <a href="https://www.polywork.com/aaman007"> <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"> </a>
 <a href="https://linkedin.com/in/aaman007" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-<a href="https://youtube.com/channel/UC8JI7DiHZpyMCMapbqZqeMw"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
+<a href="https://youtube.com/channel/UC7LNW_qfJ4RGNSPeA1SxjfA"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
 <a href="https://twitter.com/aaman_007"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 <a href="https://myanimelist.net/profile/aaman007" target="_blank"> <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" > </a>
 <a href="https://medium.com/@aaman007" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
@@ -131,11 +131,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=muoj&theme=great-gatsby)](https://github.com/aaman007/muoj)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=ChatBot&theme=great-gatsby)](https://github.com/aaman007/ChatBot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=Post-IT-DjangoApp&theme=great-gatsby)](https://github.com/aaman007/Post-IT-DjangoApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=tweet.io-server&theme=great-gatsby)](https://github.com/aaman007/tweet.io-server)
 
 <h4> Golang </h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=gallerio&theme=great-gatsby)](https://github.com/aaman007/gallerio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=PubSubGo&theme=great-gatsby)](https://github.com/aaman007/https://github.com/aaman007/PubSubGo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=PubSubGo&theme=great-gatsby)](https://github.com/aaman007/PubSubGo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=Golang-Web-Dev&theme=great-gatsby)](https://github.com/aaman007/Golang-Web-Dev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=Go-Dumps&theme=great-gatsby)](https://github.com/aaman007/Go-Dumps)
 
@@ -150,6 +151,7 @@
 
 <h4> React/React Native </h4>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=tweet.io-client&theme=great-gatsby)](https://github.com/aaman007/tweet.io-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=cryptoww&theme=great-gatsby)](https://github.com/aaman007/cryptoww)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=meals-app&theme=great-gatsby)](https://github.com/aaman007/meals-app)
 
