@@ -21,16 +21,14 @@
 <a href="https://github.com/aaman-rahman" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" > </a>
 <a href="https://gitlab.com/aaman007" target="_blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" > </a>
 <a href="https://stackoverflow.com/users/8014119/amanur-rahman" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" > </a>
+<a href="https://codeforces.com/profile/aaman007"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a>
+<a href="https://www.leetcode.com/aaman007" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" > </a>
+<a href="ttps://www.codechef.com/users/aaman007"> <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a>
 <a href="https://www.hackerearth.com/@amanur" target="_blank"> <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" > </a>
 <a href="https://www.hackerrank.com/aaman007" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" > </a>
-<a href="https://www.leetcode.com/aaman007" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" > </a>
 <a href="https://linktr.ee/aaman007" target="_blank"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" > </a>
 <a href="https://aaman007.wordpress.com"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> </a>
 
-<p align="center">
-<a href="https://www.codechef.com/users/aaman007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aaman007" height="30" width="30" /></a>
-<a href="https://codeforces.com/profile/aaman007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aaman007" height="30" width="30" /></a>
-</p>
 
 
 
