@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aaman</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaman007" alt="aaman007" /> </p>
 
 - 🌱 I’m currently learning **Flask, Express and MongoDB**
 
