@@ -132,7 +132,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=muoj&theme=great-gatsby)](https://github.com/aaman007/muoj)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=ChatBot&theme=great-gatsby)](https://github.com/aaman007/ChatBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=Post-IT-DjangoApp&theme=great-gatsby)](https://github.com/aaman007/Post-IT-DjangoApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=tweet.io-server&theme=great-gatsby)](https://github.com/aaman007/tweet.io-server)
 
 <h4> Golang </h4>
@@ -154,6 +153,5 @@
 <h4> React/React Native </h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=tweet.io-client&theme=great-gatsby)](https://github.com/aaman007/tweet.io-client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=cryptoww&theme=great-gatsby)](https://github.com/aaman007/cryptoww)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaman007&repo=meals-app&theme=great-gatsby)](https://github.com/aaman007/meals-app)
 
