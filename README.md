@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaman</h1>
 
-- 🌱 I’m currently learning **Flask, Express and MongoDB**
+- 🌱 I’m currently learning **Nothing. Nothing at all!**
 
 - 📫 How to reach me **aaman.sunny007@gmail.com**
 
